@@ -3,7 +3,7 @@ Red Mana Farm Manager - An Open Source Android Farm Management App
 
 **Current Status
 
-This app is currently in early development status. It does not have any functionality yet. Stay tuned!
+This app never worked properly, and has been abandoned for a web based version instead.
 
 **About
 
